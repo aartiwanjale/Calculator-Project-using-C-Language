@@ -1,2 +1,2 @@
-# Calculator-Project-using-C-Language
+# Calculator-Project-using-C
 Calculator-in-C
