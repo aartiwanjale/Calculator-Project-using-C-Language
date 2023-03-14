@@ -1,2 +1,4 @@
 # Calculator-Project-using-C
-Calculator-in-C
+Simple Calculator in C (mini project)
+Addition 
+Subtraction etc
